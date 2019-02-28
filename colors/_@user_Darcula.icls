@@ -1,10 +1,10 @@
-<scheme name="_@user_Default" version="142" parent_scheme="Default">
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-02-28T20:25:37</property>
+    <property name="created">2019-02-28T20:30:40</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.5.0.0</property>
     <property name="modified">2019-02-28T20:36:30</property>
-    <property name="originalScheme">Default</property>
+    <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="73c990" />
@@ -20,6 +20,7 @@
     <option name="FILESTATUS_MODIFIED" value="e2c08d" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
+    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
     <option name="FILESTATUS_RENAMED" value="a626a4" />
     <option name="FILESTATUS_SUPPRESSED" value="383a42" />
     <option name="FILESTATUS_SWITCHED" value="4078f2" />
