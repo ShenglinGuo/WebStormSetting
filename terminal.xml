@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="wsl.exe" />
+    <option name="myShellPath" value="C:\Windows\System32\wsl.exe" />
     <option name="myTabName" value="linux" />
   </component>
 </application>
